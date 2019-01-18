@@ -30,14 +30,14 @@ For both sexes, it's a numbers game, is it not?  These patterns involve the role
 - Men are the pursuers, while females are the selectors.  
 - Getting a date is the challenge for men, while getting a good date is the challenge for women.  
 - Men seek an ego boost, while women seek validation?  
-These are shallow points with some truth.  What about the women who are parents or overweight?  Men who may be dangerous?  Decent men and women exist, and online dating is a difficult place to achieve this.
+These are shallow points with some truth.  What about the women who are parents or overweight?  Men who may be dangerous?  Decent men and women exist, and online dating is a difficult place to find them.
 
 ### 5. Lying
-Finally, the reason why the algorithms aren't performing effectively, even if the algorithms were perfect, is because the data is often garbage data.  People lie excessively online, and this lying carries over to online dating.
-- Telling the truth, but not all of it.  Have another friend of the opposite sex?  That's not the full story.
+Finally, the reason why the algorithms aren't performing effectively, even if the algorithms were perfect, is because the data is often garbage.  People lie excessively online, and this lying carries over to online dating.
 - A male saying he is 6' when he is actually 5'8.
 - An individual's base salary, job, major, etc.
-- Lying about one's self-perceived personality, or even deeper, a dangerous personality disorder.
+- Telling the truth, but not all of it.  Have another friend of the opposite sex?  That's not the full story.
+- Lying about one's self-perceived personality, or even worse, a dangerous personality disorder.
 
 ## Requirements
 The following software is required to run the algorithms:
