@@ -18,12 +18,13 @@ There is no substitute.  Texting is worse than a phone call.  A phone call is wo
 - Ever see the Black Mirror episode, "Hang the DJ?"  This is a great example of how more data and simulation testing lead to better predictions.
 
 ### 3. The dating climate has changed
-People are settling down when they have everything going for them.  However, this isn't actually happening.  Trust issues, fear of repeating the past, and astronomical standards are in. 
+People should be having better success when they have everything going for them.  However, this isn't actually happening.  Trust issues, fear of repeating the past, and astronomical standards are in. 
 - Women are more independent.  This is fantastic but has had some consequences.
 - Technology has provided a window to sensitive information about an individual.
   - Say, there is a religious or political difference that acts as an instant deal breaker between two individuals.
 - Kids growing up have witnessed a divorce, and don't want to repeat the mistakes of their parents.
 - Previous failures in relationships.
+- All the new buzzwords for old phenomena that's more common due to technology: ghosting, flaking, mooning, benching, catfishing, and my favorite, submarining.
 - The rise of both crime and social justice.  Yes, sexual crimes are the worst.  Those who can move forward with what happened and carry on, are heroes and survivors.  Not victims.  However, lines are easier to cross than ever before.  Say something even slightly offensive, and it's over.  Where is the line exactly?
 
 ### 4. Online dating systems always have the same patterns
