@@ -18,7 +18,7 @@ There is no substitute.  Texting is worse than a phone call.  A phone call is wo
 - Ever see the Black Mirror episode, "Hang the DJ?"  This is a great example of how more data and simulation testing lead to better predictions.
 
 ### 3. The dating climate has changed
-People are settling down when they have everything going for them.  However, this isn't actually happeningTrust issues, fear of repeating the past, and astronomical standards, 
+People are settling down when they have everything going for them.  However, this isn't actually happening.  Trust issues, fear of repeating the past, and astronomical standards are in. 
 - Women are more independent.  This is fantastic but has had some consequences.
 - Technology has provided a window to sensitive information about an individual.
   - Say, there is a religious or political difference that acts as an instant deal breaker between two individuals.
