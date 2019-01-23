@@ -64,3 +64,43 @@ def gen_list_dict():
         "quotes": ("Einstein", "Oscar Wilde", "Bible", "Bob Dylan",
                    "Wizard of Oz")
     }
+
+
+# Ordinal Cluster - Min and max
+def gen_ord_dict():
+    return {
+        "id": (1000000, 9999999),
+        "age": (18, 36),
+        "height_in": (56, 78),
+        "weight_lbs": (90, 300),
+        "total_matches_msgd": (0, 200),
+        "pic_count": (4, 11),
+        "bio_word_count": (0, 500),
+        "avg_matches_per_month": (0, 100),
+        "avg_swipes_per_month": (0, 100),
+        "avg_likes_per_month": (0, 100),
+        "avg_hrs_per_month": (0, 100),
+        "avg_messages_per_month": (0, 100),
+        "total_swipes": (0, 1000),
+        "total_likes": (0, 1000),
+        "total_time_online_hrs": (0, 1000),
+        "total_messages": (0, 1000),
+        "total_matches": (0, 1000),
+        "days_btwn_last_like": (0, 365),
+        "days_time_btwn_last_swipe": (0, 365),
+        "days_btwn_last_match": (0, 365),
+        "days_btwn_last_online": (0, 365),
+        "days_btwn_last_message": (0, 365)
+    }
+
+
+# Date Cluster - Min and max
+def gen_date_dict():
+    return {
+        "join_date": ("1/1/2017 12:00 AM", "1/1/2018 12:00 AM"),
+        "last_like_time": ("1/1/2018 12:00 AM", "1/1/2019 12:00 AM"),
+        "last_swipe_time": ("1/1/2018 12:00 AM", "1/1/2019 12:00 AM"),
+        "last_match_time": ("1/1/2018 12:00 AM", "1/1/2019 12:00 AM"),
+        "last_online_time": ("1/1/2018 12:00 AM", "1/1/2019 12:00 AM"),
+        "last_message_time": ("1/1/2018 12:00 AM", "1/1/2019 12:00 AM")
+    }
